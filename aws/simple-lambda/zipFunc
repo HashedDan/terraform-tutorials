@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd function
+zip ../function.zip main.js
